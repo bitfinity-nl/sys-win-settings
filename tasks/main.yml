@@ -1,0 +1,10 @@
+---
+# Title: sys-win-settings
+#
+# Author: Bitfinity-NL
+# File: defaults/main.yml
+#
+# Description:
+#   Windows settings that can be applied from Ansible.
+
+
